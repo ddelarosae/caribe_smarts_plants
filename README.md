@@ -2,6 +2,8 @@
 
 A new Flutter application with api and json
 
+![GitHub Logo](https://github.com/danieldelarosa/caribe_smarts_plants/assets/logo_caribesmartsplants.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
