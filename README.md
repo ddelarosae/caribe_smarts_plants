@@ -2,7 +2,7 @@
 
 A new Flutter application with api and json
 
-![GitHub Logo](https://github.com/danieldelarosa/caribe_smarts_plants/tree/master/assets/logo_caribesmartsplants.jpg)
+![GitHub Logo](https://github.com/danieldelarosa/caribe_smarts_plants/tree/master/assets/logo_caribesmartsplants.jpg?raw=true)
 
 ## Getting Started
 
