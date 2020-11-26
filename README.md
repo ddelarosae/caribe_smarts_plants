@@ -2,7 +2,7 @@
 
 A new Flutter application with api and json
 
-![Logo](https://ibb.co/60hfgtR)
+![Logo](https://i.ibb.co/DfXS5MD/logo-plants.png)
 
 ## Getting Started
 
