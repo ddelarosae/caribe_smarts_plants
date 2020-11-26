@@ -1,0 +1,97 @@
+[
+  {
+    "ncomun": "RUDA",
+    "ncientifico": "Ruta graveolens",
+    "img": "assets/plants/ruda.jpg"
+  },
+  {
+    "ncomun": "HIERBA SANTA",
+    "ncientifico": "Piper auritum",
+    "img": "assets/plants/hierbasanta.jpg"
+  },
+  {
+    "ncomun": "HIERBA LIMON",
+    "ncientifico": "Cymbopogon citratus",
+    "img": "assets/plants/hierbalimon.jpg"
+  },
+  {
+    "ncomun": "SALVIA",
+    "ncientifico": "Salvia greggii",
+    "img": "assets/plants/salvia.jpg"
+  },
+  {
+    "ncomun": "SABILA",
+    "ncientifico": "Aloe Vera",
+    "img": "assets/plants/sabila.jpg"
+  },
+  {
+    "ncomun": "ALBAHACA",
+    "ncientifico": "Ocimun basilicum",
+    "img": "assets/plants/albahaca.jpg"
+  },
+  {
+    "ncomun": "TORONJIL",
+    "ncientifico": "Melissa subsp.",
+    "img": "assets/plants/toronjil.jpg"
+  },
+  {
+    "ncomun": "HIERBA BUENA",
+    "ncientifico": "Mentha pulegium",
+    "img": "assets/plants/hierbabuena.jpg"
+  },
+  {
+    "ncomun": "CARIAQUITO ROJO",
+    "ncientifico": ": Lantana camara",
+    "img": "assets/plants/cariaquitorojo.jpg"
+  },
+  {
+    "ncomun": "OREGANO",
+    "ncientifico": "Origanum vulgare subsp. vulgare",
+    "img": "assets/plants/oregano.jpg"
+  },
+  {
+    "ncomun": "LENGUA DE SUEGRA",
+    "ncientifico": "Sansevieria trifasciata",
+    "img": "assets/plants/lenguadesuegra.jpg"
+  },
+  {
+    "ncomun": "ARNICA",
+    "ncientifico": "Andryala ragusina",
+    "img": "assets/plants/arnica.jpg"
+  },
+  {
+    "ncomun": "ALTAMISA",
+    "ncientifico": "Ambrosia tenuifolia",
+    "img": "assets/plants/alttamisa.jpg"
+  },
+  {
+    "ncomun": "MORINGA",
+    "ncientifico": " Moringa oleífera",
+    "img": "assets/plants/moringa.jpg"
+  },
+  {
+    "ncomun": "NONI",
+    "ncientifico": "Morinda citrifolia",
+    "img": "assets/plants/noni.jpg"
+  },
+  {
+    "ncomun": "PRINGAMOZA",
+    "ncientifico": " Laportea aestuans",
+    "img": "assets/plants/pringamosa.jpg"
+  },
+  {
+    "ncomun": "YARUMO",
+    "ncientifico": "Cecropia peltata",
+    "img": "assets/plants/yorumo.jpg"
+  },
+  {
+    "ncomun": "FLOR DE JAMAICA",
+    "ncientifico": " Hibiscus sabdariffa",
+    "img": "assets/plants/flordejamaica.jpg"
+  },
+  {
+    "ncomun": "COCA",
+    "ncientifico": "Delphinium staphisagria",
+    "img": "assets/plants/coca.jpg"
+  }
+]
