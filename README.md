@@ -3,6 +3,7 @@
 A new Flutter application with api and json
 
 ![GitHub Logo](https://github.com/danieldelarosa/caribe_smarts_plants/tree/master/assets/logo_caribesmartsplants.jpg?raw=true)
+![alt text](https://reactgo.com/static/a5a982c37ee8473777aade7a3a623f92/1f083/select-image-address.png)
 
 ## Getting Started
 
